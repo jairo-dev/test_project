@@ -1,2 +1,2 @@
 # test_project
-Test Project
+This is a test project to explore github funtionalities. ;-)
